@@ -8,9 +8,7 @@
   "main": "index.js",
   "scripts": {
     "dev:ts": "flatfile develop typescript/index.ts",
-    "dev:js": "flatfile develop javascript/index.js",
     "deploy:ts": "flatfile deploy typescript/index.ts",
-    "deploy:js": "flatfile deploy javascript/index.js",
     "create-workbook": "bash ./scripts/create-workbook.sh"
   },
   "keywords": [],
